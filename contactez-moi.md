@@ -10,6 +10,15 @@ dansmenu: yes
 panels_data:
   - 'a:0:{}'
 ---
+
+Vous pouvez me retrouver sur de nombreux réseaux sociaux à l'adresse *@bertrandsoulier* :
+
+- [Twitter](//twitter.com/bertrandsoulier)
+- [Instagram](//instagram.com/bertrandsoulier)
+- [Facebook](//facebook.com/soulierbertrand)
+- [Linkedin](https://www.linkedin.com/in/bertrandsoulier/)
+
+
 Pour me contacter, travaillez ensemble, discuter d’un partenariat, envisager une formation ou tout simplement boire un thé en parlant web, remplissez le formulaire ci-dessous :
 
 <script type="text/javascript">
