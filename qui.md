@@ -6,7 +6,7 @@ author: bertrand
 layout: page
 guid: http://votrecoachweb.com/?page_id=87
 order: 1
-menu: yes
+dansmenu: yes
 panels_data:
   - 'a:0:{}'
 ---
