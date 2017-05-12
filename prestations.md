@@ -4,6 +4,7 @@ title: Mes prestations
 date: 2014-07-05T07:15:17+00:00
 author: bertrand
 layout: page
+order : 2
 guid: http://votrecoachweb.com/?page_id=16
 panels_data:
   - 'a:0:{}'

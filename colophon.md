@@ -4,6 +4,7 @@ title: Colophon
 date: 2014-07-05T07:21:53+00:00
 author: bertrand
 layout: page
+order: 3
 guid: http://votrecoachweb.com/?page_id=28
 panels_data:
   - 'a:0:{}'

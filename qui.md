@@ -5,6 +5,8 @@ date: 2014-07-05T08:33:04+00:00
 author: bertrand
 layout: page
 guid: http://votrecoachweb.com/?page_id=87
+order: 1
+menu: yes
 panels_data:
   - 'a:0:{}'
 ---
@@ -24,4 +26,4 @@ Je suis aussi intervenant dans plusieurs formations universitaires à Clermont-F
 
 Je co-organise aussi les <a href="http://webauvergnat.com/">apéros et rencontres du Web Auvergnat</a>. J’anime aussi plusieurs blogs ainsi que le <a href="http://www.cyberbougnat.net/">webmag sur Clermont-Ferrand Cyberbougnat.net</a>. Je vous invite aussi à me suivre sur<a href="http://twitter.com/bertrandsoulier">Twitter</a>, <a href="https://www.facebook.com/SoulierBertrand">Facebook</a>, <a href="http://fr.linkedin.com/in/bertrandsoulier">Linkedin</a> ou <a href="https://plus.google.com/116136797959829119946/about" rel="me">Google+</a>.
 
-Par ailleurs je fais un peu de photo, supporte l’ensemble des équipes sportives clermontoises, dévore le web à longueur de journée et roule en pignon fixe.
+Par ailleurs je fais un peu de photo, supporte l’ensemble des équipes sportives [title](file:///Volumes/NO%20NAME/) [title](file:///Volumes/PMHOME/)clermontoises, dévore le web à longueur de journée et roule en pignon fixe.
